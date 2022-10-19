@@ -24,26 +24,49 @@ p {
 }
 
 h2 {
-    color:purple;
-    background:black;
-    font:30px;
-}   
+    color: purple;
+    background: black;
+    font: 30px;
+}
 
 p.favorite-food {
-    color:green;
-    background:brown;
-    font:30px;
+    color: green;
+    background: brown;
+    font: 30px;
 
-    height:50px;
-    width:100;
+    margin: 100px 50px 100px 50px;
+
+    height: 50px;
+    width: 100px;
 }
 
 p.favorite-car {
-   color:blue; 
-   background:brown;
-   font:30px;
+    color: blue;
+    background: brown;
+    font: 30px;
 
-   height:50px;
-   width:100%;
+    margin: 500px 100px 500px 100px;
 
+
+    height: 50px;
+    width: 100px;
+
+}
+
+p.age-24 {
+    color: blue;
+    background: brown;
+    font: 30px;
+
+    height: 50px;
+    width: 100px;
+}
+
+p.Eye-color {
+    color: blue;
+    background: brown;
+    font: 30px;
+
+    height: 50px;
+    width: 100px;
 }
